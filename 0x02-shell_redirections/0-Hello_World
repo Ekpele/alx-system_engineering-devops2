@@ -1,3 +1,1 @@
-#!/bin/bash
-echo Hello, World
-tail -n 1 iacta >> iacta
+#cho "Hello, World"
